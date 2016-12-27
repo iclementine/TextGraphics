@@ -5,7 +5,7 @@
 # 	@januverma
 
 
-from __future__ import division
+# from __future__ import division
 import sys
 from collections import *
 import operator
@@ -16,7 +16,7 @@ from math import *
 try:
 	import networkx as nx 
 except:
-	print "Error : Requires networkx"
+	print("Error : Requires networkx")
 	sys.exit()	
 
 
