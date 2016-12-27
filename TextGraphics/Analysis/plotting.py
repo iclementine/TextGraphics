@@ -4,7 +4,7 @@
 #	based on R package ggplot2 or d3.js
 
 
-from __future__ import division
+# from __future__ import division
 import numpy as np
 import networkx as nx
 from matplotlib import pyplot as plt
